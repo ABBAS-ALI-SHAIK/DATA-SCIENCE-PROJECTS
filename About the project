@@ -1,0 +1,10 @@
+Data Science Project - Pharmacy - Alura Immersion
+Analyzing data from the Drug Discovery field using Python tools, such as Machine Learning.
+
+Using the Pandas library, I analyzed the available data and completed the proposed challenges.
+
+Using the Seaborn and Matplotlib libraries, I analyzed the available data and generated visualization graphs.
+
+Using the Seaborn and Numpy libraries, I analyzed the available data through scatter and correlation graphs.
+
+Using the merge function from Pandas, we linked two dataframes and created new columns for visualization, which was done through graphs and consolidated data.
